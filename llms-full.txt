@@ -1,0 +1,62 @@
+# Bendigo
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Atterberg Limits](https://bendigo.geotechnicalengineering1.vip/atterberg-limits/)
+- [Bearing Capacity Analysis](https://bendigo.geotechnicalengineering1.vip/bearing-capacity-analysis/)
+- [Cbr Study Road Design](https://bendigo.geotechnicalengineering1.vip/cbr-study-road-design/)
+- [Cone Penetration](https://bendigo.geotechnicalengineering1.vip/cone-penetration/)
+- [Contaminated Soil Remediation](https://bendigo.geotechnicalengineering1.vip/contaminated-soil-remediation/)
+- [Debris Flow Analysis](https://bendigo.geotechnicalengineering1.vip/debris-flow-analysis/)
+- [Deep Soil Mixing](https://bendigo.geotechnicalengineering1.vip/deep-soil-mixing/)
+- [Diaphragm Wall Design](https://bendigo.geotechnicalengineering1.vip/diaphragm-wall-design/)
+- [Differential Settlement Analysis](https://bendigo.geotechnicalengineering1.vip/differential-settlement-analysis/)
+- [Dynamic Compaction Design](https://bendigo.geotechnicalengineering1.vip/dynamic-compaction-design/)
+- [Electrical Resistivity Ves](https://bendigo.geotechnicalengineering1.vip/electrical-resistivity-ves/)
+- [Exploratory Pit](https://bendigo.geotechnicalengineering1.vip/exploratory-pit/)
+- [Factor Safety](https://bendigo.geotechnicalengineering1.vip/factor-safety/)
+- [Field Permeability](https://bendigo.geotechnicalengineering1.vip/field-permeability/)
+- [Field Vane Shear](https://bendigo.geotechnicalengineering1.vip/field-vane-shear/)
+- [Flat Dilatometer](https://bendigo.geotechnicalengineering1.vip/flat-dilatometer/)
+- [Flexible Pavement Design](https://bendigo.geotechnicalengineering1.vip/flexible-pavement-design/)
+- [Foundations](https://bendigo.geotechnicalengineering1.vip/foundations/)
+- [Geogrid Specification](https://bendigo.geotechnicalengineering1.vip/geogrid-specification/)
+- [Geophysics](https://bendigo.geotechnicalengineering1.vip/geophysics/)
+- [Geotechnical Analysis Soft Soil](https://bendigo.geotechnicalengineering1.vip/geotechnical-analysis-soft-soil/)
+- [Geotechnical Design Deep Excavations](https://bendigo.geotechnicalengineering1.vip/geotechnical-design-deep-excavations/)
+- [Geotechnical Drainage Design](https://bendigo.geotechnicalengineering1.vip/geotechnical-drainage-design/)
+- [Geotechnical Road Drainage](https://bendigo.geotechnicalengineering1.vip/geotechnical-road-drainage/)
+- [Geotechnical Slope Monitoring](https://bendigo.geotechnicalengineering1.vip/geotechnical-slope-monitoring/)
+- [Geotextile Specification](https://bendigo.geotechnicalengineering1.vip/geotextile-specification/)
+- [Ground Improvement](https://bendigo.geotechnicalengineering1.vip/ground-improvement/)
+- [Ground Penetrating Radar](https://bendigo.geotechnicalengineering1.vip/ground-penetrating-radar/)
+- [Grouting Design](https://bendigo.geotechnicalengineering1.vip/grouting-design/)
+- [In Situ Testing](https://bendigo.geotechnicalengineering1.vip/in-situ-testing/)
+- [Investigation](https://bendigo.geotechnicalengineering1.vip/investigation/)
+- [Laboratory](https://bendigo.geotechnicalengineering1.vip/laboratory/)
+- [Laboratory Permeability](https://bendigo.geotechnicalengineering1.vip/laboratory-permeability/)
+- [Landslide Assessment](https://bendigo.geotechnicalengineering1.vip/landslide-assessment/)
+- [Lime Cement Stabilization](https://bendigo.geotechnicalengineering1.vip/lime-cement-stabilization/)
+- [Mechanically Stabilized Earth](https://bendigo.geotechnicalengineering1.vip/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://bendigo.geotechnicalengineering1.vip/menard-pressuremeter/)
+- [Oedometer Consolidation](https://bendigo.geotechnicalengineering1.vip/oedometer-consolidation/)
+- [Pile Skin Friction Vs](https://bendigo.geotechnicalengineering1.vip/pile-skin-friction-vs/)
+- [Plate Load](https://bendigo.geotechnicalengineering1.vip/plate-load/)
+- [Porchet Double Ring Infiltrometer](https://bendigo.geotechnicalengineering1.vip/porchet-double-ring-infiltrometer/)
+- [Prefabricated Vertical Drain](https://bendigo.geotechnicalengineering1.vip/prefabricated-vertical-drain/)
+- [Raft Mat Foundation Design](https://bendigo.geotechnicalengineering1.vip/raft-mat-foundation-design/)
+- [Retaining Wall Design](https://bendigo.geotechnicalengineering1.vip/retaining-wall-design/)
+- [Road Embankment Design](https://bendigo.geotechnicalengineering1.vip/road-embankment-design/)
+- [Road Subgrade Design](https://bendigo.geotechnicalengineering1.vip/road-subgrade-design/)
+- [Roadway](https://bendigo.geotechnicalengineering1.vip/roadway/)
+- [Seismic](https://bendigo.geotechnicalengineering1.vip/seismic/)
+- [Seismic Amplification Analysis](https://bendigo.geotechnicalengineering1.vip/seismic-amplification-analysis/)
+- [Seismic Microzonation](https://bendigo.geotechnicalengineering1.vip/seismic-microzonation/)
+
+## Contact
+- Website: https://bendigo.geotechnicalengineering1.vip/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
